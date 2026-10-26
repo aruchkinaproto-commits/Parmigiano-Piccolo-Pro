@@ -1,0 +1,72 @@
+@font-face {
+    font-family: "Parmigiano";
+    src: url("../fonts/ParmigianoPiccoloPro-Thin.woff2") format("woff2");
+    font-style: normal;
+    font-weight: 100;
+}
+@font-face {
+    font-family: "Parmigiano";
+    src: url("../fonts/ParmigianoPiccoloPro-Lt.woff2") format("woff2");
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "Parmigiano";
+    src: url("../fonts/ParmigianoPiccoloPro-Thinlta.woff2") format("woff2");
+    font-style: italic;
+    font-weight: 100;
+}
+@font-face {
+    font-family: "Parmigiano";
+    src: url("../fonts/ParmigianoPiccoloPro-Ltlta.woff2") format("woff2");
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "Parmigiano";
+    src: url("../fonts/ParmigianoPiccoloPro-Reg.woff2") format("woff2");
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Parmigiano";
+    src: url("../fonts/ParmigianoPiccoloPro-Reglta.woff2") format("woff2");
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Parmigiano";
+    src: url("../fonts/ParmigianoPiccoloPro-Med.woff2") format("woff2");
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "Parmigiano";
+    src: url("../fonts/ParmigianoPiccoloPro-Medlta.woff2") format("woff2");
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "Parmigiano";
+    src: url("../fonts/ParmigianoPiccoloPro-Bld.woff2") format("woff2");
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Parmigiano";
+    src: url("../fonts/ParmigianoPiccoloPro-Blklta.woff2") format("woff2");
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Parmigiano";
+    src: url("../fonts/ParmigianoPiccoloPro-Blk.woff2") format("woff2");
+    font-style: normal;
+    font-weight: 900;
+}
+@font-face {
+    font-family: "Parmigiano";
+    src: url("../fonts/ParmigianoPiccoloPro-BIkIta.woff2") format("woff2");
+    font-style: italic;
+    font-weight: 900;
+}
